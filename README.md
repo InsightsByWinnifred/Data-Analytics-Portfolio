@@ -3,17 +3,13 @@ Welcome to my portfolio. I specialize in data cleaning, analysis and building ac
 
 ## Projects
 ### 1. Retail Sales Performance Analysis
-- Identified top-performing product category
-- Analyzed customer payment preferences
-- Compared online vs in-store behavior
+Idenified key revenue drivers, customer payment trends and sales patterns.
 
 ### 2. Tech Employee Workforce Analysis
-- Cleaned employee survey dataset
-- Analyzed salary distribution and remote work trends
+Analyzed employee data to uncover workforce trends, salary insights and workplace patterns.
 
 ### 3. Customer Behavior Segmentation Analysis
-- Improved data quality
-- Extracted customer behavior insights
+Explored customer data to understand behavior patterns and improve data quality.
 
 ## Tools
 - Microsoft Excel
