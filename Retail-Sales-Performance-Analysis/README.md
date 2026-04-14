@@ -1,6 +1,6 @@
 ## RETAIL SALES PERFORMANCE ANALYSIS
 
-## Identified Revenue Drivers and Customer Spending Patterns
+### Identified Revenue Drivers and Customer Spending Patterns
 
 ## Project Overview
 This project demonstrates the process of cleaning and preparing a retail sales dataset for accurate analysis and reporting.
