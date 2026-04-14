@@ -19,3 +19,8 @@ Welcome to my portfolio. I specialize in data cleaning, analysis and building ac
 - Microsoft Excel
 - SQL
 - Power BI
+
+## Focus
+- Data Cleaning
+- Data Analysis
+- Business Insights
