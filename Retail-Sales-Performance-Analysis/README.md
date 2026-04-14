@@ -24,4 +24,4 @@ This project demonstrates the process of cleaning and preparing a retail sales d
 ![retail_store_sales_dashboard2](retail_store_sales_dashboard2.png)
 
 ## Dataset
-The cleaned dataset and dashboard preview are included in the repository.
+The cleaned dataset is included in this repository.
