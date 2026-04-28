@@ -1,6 +1,6 @@
 ## RETAIL SALES ANALYSIS (EXCEL DASHBOARD PROJECT)
 ## Overview
-This project analyzes retail sales data to uncover patterns in customer behavior, product performance and revenue trends. The goal is to transform raw transactional data into actionable insights using Excel.
+This project analyzes retail sales data to uncover patterns in customer behavior, product performance and revenue trends. The goal is to transform raw transactional data into actionable insights using Microsoft Excel.
 
 ## Business Problem
 Retail businesses need to understand:
@@ -13,8 +13,8 @@ This project answers these questions through structured data analysis and intera
 
 ## Tools Used
 - Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Data Cleaning & Transformation
+- Pivot Tables and Pivot Charts
+- Data Cleaning and Transformation
 - Dashboard Design
 
 ## Data Preparation
@@ -38,7 +38,7 @@ Provides a high-level summary:
 
 ### Deep Dive Dashboard
 Explores detailed insights:
-- Customer behavior (spending & frequency)
+- Customer behavior (spending and frequency)
 - Product category performance
 - Revenue per transaction
 - Purchase patterns across segments
