@@ -58,7 +58,7 @@ I focus on more than just building charts. I aim to:
 
 ## Let's Connect
 I am open to remote opportunities, collaborations and learning experiences in data analytics.
-- LinkedIn:()
+- LinkedIn: www.linkedin.com/in/winnifred-mgbonye-9334962b0
 - GitHub: https://github.com/InsightsByWinnifred
 
 ## Note
