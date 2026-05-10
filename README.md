@@ -17,6 +17,17 @@ I work with Microsoft Excel, SQL and Power BI to clean, analyze and visualize da
 - Data Storytelling and Insight Communication
 
 ## Projects
+### Supply Chain Analytics
+Analyzed supply chain operations to uncover insights related to revenue generation, profitability, inventory levels, shipping costs and product defects.
+#### Key Insights:
+- Skincare drives the highest revenue
+- Carrier B has the highest cost but not best performance
+- SKU 12 may be overstocked
+- Air and Sea transportation modes showed the highest revenue
+- Profit margins remained high across product categories
+
+**Explore Full Project:** [Supply Chain Analytics Dashboard](https://github.com/InsightsByWinnifred/Data-Analytics-Portfolio/tree/main/Supply-Chain-Analytics)
+
 ### Retail Sales Analysis
 Analyzed a retail transaction dataset to uncover customer purchasing behavior, product performance and seasonal revenue trends.
 #### Key Insights:
