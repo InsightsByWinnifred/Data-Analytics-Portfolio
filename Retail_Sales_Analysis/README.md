@@ -62,7 +62,7 @@ Explores detailed insights:
 - 02_RAW_DATA - Original dataset
 - 03_WORKINGS - Data transformation steps
 - 04_CLEANED_DATA - Final structured dataset
-- 05_PIVOT_TABLES - Supporting Analysis
+- 05_PIVOT_TABLES - Supporting analysis
 - 06_DASHBOARD_OVERVEW - Executive dashboard
 - 07_DASHBOARD_DEEP_DIVE - Detailed analysis
 
